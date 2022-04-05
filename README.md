@@ -5,5 +5,5 @@ This code is available under GNU General Public Licence, version 3.0.
 
 All the code was processed using Matlab2018a.
 
-.m used for the heating simulation are HSD_to_OPD_main.m, medium.m, HSD_generation.m, Green_generation.m, Green_three_layers.m, HSD_to_deltaT.m. 
-.m used for the amplitude and phase calculation are Amp_phase_minimization_calculation.m and fit_cos.m.
+.m files used for the heating simulation are: HSD_to_OPD_main.m, medium.m, HSD_generation.m, Green_generation.m, Green_three_layers.m, HSD_to_deltaT.m and rot_sym_1D_to_2D.m. 
+.m files used for the amplitude and phase calculation are: Amp_phase_minimization_calculation.m and fit_cos.m.
